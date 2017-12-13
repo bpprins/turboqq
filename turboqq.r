@@ -82,12 +82,6 @@ input_data_path <- as.character(input_data_path)
 output_data_rootname <- as.character(output_data_rootname)
 plot_title <- as.character(plot_title)
 
-
-input_data_path<-"/scratch/bp406/sandbox/turboqq/plotdata.txt"
-input_data_path<-"/scratch/bp406/sandbox/turboqq/bigplotdata.txt"
-output_data_rootname<-"bork"
-plot_title<"borktext"
-
 #---------------------------------------------------------------------
 # Reading in association plot data with scan
 #---------------------------------------------------------------------
